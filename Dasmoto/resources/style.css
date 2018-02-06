@@ -1,0 +1,100 @@
+#heading{
+  margin-top: 100px;
+  height: 120px;
+  width: 99.5%;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+#heading h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+#brush-main{
+  width: 99.5%;
+  height: 420px;
+  margin-bottom: 0px;
+}
+#brushes{
+  margin-top: 100px;
+  width: 100%;
+  height: 40px;
+  background-color: mediumspringgreen;
+}
+#brushes h3{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#brush-main h2{
+  font-weight: bold;
+  font-family: Helvetica;
+}
+#brush-main p{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+#brush-main span{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+#frame-main{
+  width: 99.5%;
+  height: 420px;
+}
+#frame{
+  background-color: lightcoral;
+  width:100%;
+  height: 40px;
+}
+#frame h3{
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+#frame-main h2{
+  font-weight: bold;
+  font-family: Helvetica;
+}
+#frame-main p{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+#frame-main span{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+#paint-main{
+  width: 99.5%;
+  height: 600px;
+}
+#paint{
+  height:40px;
+  width: 100%;
+  background-color: skyblue;
+  margin-bottom: 20px;
+}
+#paint h3{
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+#paint-main h2{
+  font-weight: bold;
+  font-family: Helvetica;
+}
+#paint-main p{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+#paint-main span{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
